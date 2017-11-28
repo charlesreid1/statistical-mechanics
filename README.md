@@ -1,2 +1,2 @@
 # lorenz-party-tricks
-Stupid party tricks with Lorenz attractors.
+Party tricks with Lorenz attractors.
